@@ -1,45 +1,46 @@
-Mega Project List
+Mega Lista de Proyectos
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
+Lista de proyectos practicos que se pueden resolver en cualquier lenguaje de programacion. (mira [soluciones](https://github.com/thekarangoel/Projects-Solutions)). Los proyectos estan divididos en categorias y cada categoria tiene su propia carpeta.
 
-To get started, simply fork this repo.
+Para comenzar, puedes hacer una fork de este repositorio.
 
-## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
+## [CONTRIBUIR](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
 
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
+Mira como puedes [contribuir](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) a este repositorio. Tambien puedes contribuir con las **soluciones** (publicadas en este [repositorio](https://github.com/thekarangoel/Projects-Solutions)) para los problemas existentes, **para los proximos** o aquellos que fueron reliminados. Asegurate de seguir las instrucciones correctamente.
 
 
-## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
+## [Soluciones](https://github.com/thekarangoel/Projects-Solutions)
 
-You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
+Puedes encontrar muchas formas de resolver los proyecto en diferentes lenguajes en [este repositorio](https://github.com/thekarangoel/Projects-Solutions).
 
-## Credits
+## Creditos
 
-This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
+Este repositorio fue creado por [Karan Goel](http://twitter.com/karangoel).
+Traducido a español por [Jhonatan Laguna](http://twitter.com/lagunajs).
 
-Problems are motivated by the ones shared at:
+Los proyectos estan basados en estos:
 
 * [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 * [Rosetta Code](http://rosettacode.org/)
 
-## Table of Contents
+## Tabla de contenido
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
+- [Numeros](https://github.com/karan/Projects#numbers)
+- [Algoritmos](https://github.com/karan/Projects#classic-algorithms)
+- [Grafos](https://github.com/karan/Projects#graph)
+- [Estructuras de datos](https://github.com/karan/Projects#data-structures)
+- [Manipulacion de cadenas de texto](https://github.com/karan/Projects#text)
 - [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
+- [Programacion orientada a objetos](https://github.com/karan/Projects#classes)
+- [Hilos](https://github.com/karan/Projects#threading)
 - [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Manipulacion de archivos](https://github.com/karan/Projects#files)
+- [Bases de datos](https://github.com/karan/Projects#databases)
+- [Graficos y multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
+- [Seguridad](https://github.com/karan/Projects#security)
 
-Numbers
+Numeros
 ---------
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
